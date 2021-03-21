@@ -1,2 +1,2 @@
 # thegosh.github.io
-My web site
+My web site is awesome!
