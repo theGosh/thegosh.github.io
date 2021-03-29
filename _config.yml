@@ -21,24 +21,29 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://wwww.maggiewisniewska.com'
 baseurl: ''
-title: 'My website'
+title: 'Maggie Wisniewska'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
 
+social_links:
+  Twitter: https://twitter.com/GosiaVisniewska
+  LinkedIn: https://www.linkedin.com/in/maggie-wisniewska-51585844
+  ResearchGate: https://www.researchgate.net/profile/Maggie-Wisniewska
+
 # Header nav
 navigation_header:
-- title: Home
+- title: About 
   url: /
-- title: About
-  url: /about/
-- title: Blog
+- title: Research 
+  url: /research/
+- title: CV 
   url: /blog/
 
 # Footer nav
