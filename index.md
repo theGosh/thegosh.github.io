@@ -2,7 +2,7 @@
 title:  
 feature_image: "/assets/penguins.jpg"
 feature_text: |
-  ## Maggie Wisniewska 
+  ## Maggie Wiśniewska 
 ---
 ![test](/assets/lobster.png)
 {% include nav-social.html %}
