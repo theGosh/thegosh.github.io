@@ -6,6 +6,8 @@ feature_text: |
 ---
 <img src="/assets/lobster.png" alt="drawing" width="500"/>
 
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 {% include nav-social.html %}
 
 I am a behavioral ecologist and a science educator.
