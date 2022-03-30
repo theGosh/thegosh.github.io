@@ -4,7 +4,7 @@ feature_image: "/assets/penguins.jpg"
 feature_text: |
   ## Maggie Wiśniewska 
 ---
-<img src="/assets/lobster.png" alt="drawing" width="500",align="center"/>
+<img src="/assets/lobster.png" alt="drawing" width="500"/>
 
 {% include nav-social.html %}
 
