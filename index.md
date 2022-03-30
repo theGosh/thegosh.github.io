@@ -4,9 +4,7 @@ feature_image: "/assets/penguins.jpg"
 feature_text: |
   ## Maggie Wiśniewska 
 ---
-<img src="/assets/lobster.png" alt="drawing" width="500"/>
-
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img src="/assets/lobster.png" alt="drawing" width="500",align="center"/>
 
 {% include nav-social.html %}
 
