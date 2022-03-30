@@ -43,8 +43,10 @@ navigation_header:
   url: /
 - title: Research 
   url: /research/
-- title: CV 
-  url: /blog/
+- title: Teaching
+  url: /teaching/
+- title: CV
+  url: /cv/
 
 # Footer nav
 navigation_footer:

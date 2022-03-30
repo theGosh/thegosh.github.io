@@ -23,6 +23,13 @@
   },
   
   {
+    "title": "Curriculum Vitae",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/cv/"
+  },
+  
+  {
     "title": "Blog",
     "excerpt": "\n",
     "content": "\n",
@@ -30,17 +37,17 @@
   },
   
   {
-    "title": "Welcome to my website",
+    "title": "Research",
     "excerpt": "\n",
-    "content": "There isn’t much going on here yet, but watch this space\n\n{% include nav-social.html %}\n",
-    "url": "/"
+    "content": "I have extensive experience as a field biologist and a researcher working with a range of taxa, from insects, to birds to mammals, on topics as diverse as behavioral ecology or and biocontrol.\n\nMy recent focus has been on the behavioral ecology of African savanna elephants, particularly in Southern Africa—a versatile model of an endangered keystone species; a nuisance impacting human welfare; and an economic asset. Its conservation and management are increasingly important (Poulsen et al. 2018; Sandhage-Hofmann et al. 2021).\n\nDuring my Master’s degree research with Dr. Bruce Schulte, I studied the social behavior of female savanna elephants in Addo Elephant National Park (AENP), South Africa. Based on traditional behavioral sampling, I related age, reproductive status and sex of nursing claves among adult females to their diurnal activities; and the degree of agonism and affiliation towards conspecifics. Females nursing female calves had spent more time foraging than their conspecific nursing male calves; the latter had spent more time nursing their calves and resting. In other polygynous species rearing of male offspring is linked to increased resource intake by the mother. Given lifelong, matrilineal interactions, female elephants may invest differently but equivalently in male and female calves (Wisniewska et al. 2015). For this work, I received Alltech Young Scientist’s 3rd Place Graduate Award 2011.\n",
+    "url": "/research/"
   },
   
   {
-    "title": "Research",
+    "title": "Teaching",
     "excerpt": "\n",
-    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
-    "url": "/research/"
+    "content": "\n\nAs a graduate teaching assistant, and an instructor of record, I have taught courses ranging from Human Biology to Field Ecology to Environmental Science.\n\nMy interest in teaching and my approach as an instructor grew out of my experiences as a student and a researcher. I work hard to present science as relevant; and instill in my students a habit of life-long learning.\n\nTo make my instruction useful to individuals with diverse learning styles, I employ a variety of techniques such as flipped classroom assignments or multimedia tools.Ultimately, by helping my students understand and convey basic biological principles, I want to bolster their engagement with science-related topics, as individuals, professionals and citizens.\n\nMy approach to teaching will keep changing as I continue to gain experience, but I will always strive for a classroom where students feel comfortable making mistakes, discussing challenging questions, and ultimately a classroom where they realize their ambitions.\n\nMy interest: teaching bridge between human and animal biology; imagining how we can make things better for the natural world (it has to start with imagining); help people tapinto resources that open research for many  (open access data repositories).\n",
+    "url": "/teaching/"
   }
   
 ]
