@@ -14,4 +14,3 @@ As a scientist, I study how animals navigate human-altered ecosystems. My goal i
 
 As an educator, I strive to teach science as a discipline that is accessible and relevant to everyday life. In the classroom, my goals are to spark curiosity and encourage my students towards life-long learning.
 
-{% include nav-social.html %}
