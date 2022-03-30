@@ -8,7 +8,8 @@ feature_text: |
   <img src="/assets/lobster.png" alt="drawing" width="500"/>
 
 {% include nav-social.html %}
-
+  
+<p align="left">
 I am a behavioral ecologist and a science educator.
 
 As a scientist, I study how animals navigate human-altered ecosystems. My goal is to use this knowledge for greater inclusion of wildlife’s resource needs as a factor in conservation and management decisions. 
