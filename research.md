@@ -9,6 +9,9 @@ My recent focus has been on the behavioral ecology of African savanna elephants,
 
 During my MS research, I studied the social behavior of female savanna elephants in Addo Elephant National Park (AENP) in South Africa. Based on behavioral sampling, I related age, reproductive status and sex of nursing claves among adult females to their 1) diurnal activities; and 2) the degree of agonism/affiliation towards conspecifics. Females nursing female calves had spent more time foraging than females with male calves; the latter had nursed their calves and rested more. In other polygynous species, rearing males is linked to increased resource intake by the mothers. In matrilineal elephant herds, females may invest differently but equivalently in male and female calves (Wiśniewska et al. 2015; Alltech Young Scientist’s 3rd Place Graduate Award 2011). 
 
+<p align="center">
+  <img src="/assets/RhinoEgg.png" alt="drawing" width="500"/>
+  
 While at AENP, and later as a research fellow working on another elephant behavior project in Etosha NP, Namibia, with Dr. Caitlin O’Connell, I had frequently interacted with local scientists, practitioners and community members. Their views on wildlife conservation and management inspired me to study animal behavior through the lens of spatial ecology, as a method for conservation.
 
 In my dissertation, I developed two tools to test hypotheses about 1) how poaching-induced disturbance of social dynamics in virtual savanna elephant populations relates to group performance and 2) how free-ranging elephants integrate sociophysical information in their movement. 
