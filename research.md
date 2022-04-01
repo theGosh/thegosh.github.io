@@ -52,7 +52,7 @@ Two Manuscripts detailing building and testing of the SRSF will soon be submitte
   
 <p align="left">
 
-I would like to expand my focus to questions about interactions between wildlife and humans—a dynamic that remains problematic and poorly understood. I will need to learn new techniques to evaluate human social behavior, but my research skills will be useful in carrying out interdisciplinary work. In fact, the SRSF model—a now tested estimator of (in theory) any number of social and physical drivers of movement—can help me set in motion my research ideas. 
+I would like to expand my focus to questions about interactions between wildlife and humans—a dynamic that remains problematic and poorly understood. The SRSF model will be handy, because it can (theoretically) estimate multiple sociophysical drivers of movement by any species, including humans. 
   
 <p align="left">
   
