@@ -1,6 +1,6 @@
 ---
 title:  
-feature_image: "/assets/penguins.jpg"
+feature_image: "/assets/IntroTop.png"
 feature_text: |
   ## Maggie Wiśniewska, Ph.D
 ---
