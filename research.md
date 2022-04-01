@@ -43,7 +43,7 @@ Secondly, I modified an established resource selection function (RSF) to simulta
 
 
 <p align="center">
-  <img src="/assets/Map.png" alt="drawing" width="600"/>
+  <img src="/assets/Map.png" alt="drawing" width="500"/>
   
   
 <p align="left">  
@@ -52,4 +52,8 @@ Two Manuscripts detailing building and testing of the SRSF will soon be submitte
   
 <p align="left">
 
-I would like to expand my focus to questions about interactions between wildlife and humans—a dynamic that is increasingly problematic but poorly understood. I will need to learn new sampling and analytical techniques to evaluate human social behavior, but my research skills (many of them transferable) will be useful in carrying out interdisciplinary work. In fact, the SRSF model—a now tested estimator of (in theory) any number of social and physical drivers of movement—can help me set in motion my research ideas. Other topics that interest me, besides of course conservation behavior, include road ecology, wildlife criminology and environmental education.
+I would like to expand my focus to questions about interactions between wildlife and humans—a dynamic that remains problematic and poorly understood. I will need to learn new techniques to evaluate human social behavior, but my research skills will be useful in carrying out interdisciplinary work. In fact, the SRSF model—a now tested estimator of (in theory) any number of social and physical drivers of movement—can help me set in motion my research ideas. 
+  
+<p align="left">
+  
+Other topics that interest me, besides of course conservation behavior, include road ecology, wildlife criminology and environmental education.
