@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-
+<font size=”1″> 
 ## Education
 
 
