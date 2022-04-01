@@ -31,7 +31,7 @@ First, I developed a social network simulator and characterized the effect of ex
   
   
 <p align="center">
-  <img src="/assets/SNA.png" alt="drawing" width="700"/>
+  <img src="/assets/SNA.png" alt="drawing" width="500"/>
   
   
 <p align="left">
@@ -43,7 +43,7 @@ Secondly, I modified an established resource selection function (RSF) to simulta
 
 
 <p align="center">
-  <img src="/assets/Map.png" alt="drawing" width="800"/>
+  <img src="/assets/Map.png" alt="drawing" width="600"/>
   
   
 <p align="left">  
