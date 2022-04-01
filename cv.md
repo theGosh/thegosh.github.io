@@ -14,8 +14,7 @@ Ph.D. in Biological Sciences - New Jersey Institute of Technology (NJIT), Newark
 <p align="left">
 Advisors: Drs. Gareth Russell and Simon Garnier 
 <p align="left">        
-Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (Loxodonta     
-          africana)
+Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (Loxodontabafricana)
 
           
 2011    	
