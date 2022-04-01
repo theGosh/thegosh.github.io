@@ -1,9 +1,7 @@
 ---
 title: Research 
-feature_image:  "/assets/ResearchTop.jpg"
+feature_image:  "/assets/ResearchTop.png"
 ---
-
-
 
 I have extensive fieldwork experience and have done research on a range of taxa and topics, from invasive insects biocontrol, to nesting behavior in birds, to movement ecology in mammals.  
 
