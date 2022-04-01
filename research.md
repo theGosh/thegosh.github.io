@@ -14,6 +14,10 @@ I have extensive fieldwork experience and have done research on a range of taxa 
 
   
 My recent focus has been on the behavioral ecology of African savanna elephants, particularly in Southern Africa—a versatile model of an endangered keystone species; a nuisance impacting human welfare; and an economic asset. Its conservation and management are increasingly important.
+
+<p align="center">
+  <img src="/assets/Eles.png" alt="drawing" width="500"/>
+  
   
 <p align="left">  
 During my MS research, I studied the social behavior of female savanna elephants in Addo Elephant National Park (AENP) in South Africa. Based on behavioral sampling, I related age, reproductive status and sex of nursing claves among adult females to their 1) diurnal activities; and 2) the degree of agonism/affiliation towards conspecifics. Females nursing female calves had spent more time foraging than females with male calves; the latter had nursed their calves and rested more. In other polygynous species, rearing males is linked to increased resource intake by the mothers. In matrilineal elephant herds, females may invest differently but equivalently in male and female calves (Wiśniewska et al. 2015; Alltech Young Scientist’s 3rd Place Graduate Award 2011). 
