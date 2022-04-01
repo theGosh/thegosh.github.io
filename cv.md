@@ -38,8 +38,6 @@ B.S. in Biology - University of Texas (UT Austin), Austin, TX
 A.S. in Veterinary Technology - Manor College, Jenkintown, PA
 
 
-  
-  
 <p align="left">
 Full CV
 
