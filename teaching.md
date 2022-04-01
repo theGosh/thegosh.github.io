@@ -1,6 +1,6 @@
 ---
 title: Teaching 
-feature_image: "/assets/penguins.png"
+feature_image: "/assets/TeachingTop.png"
 ---
 
 ![University of Notre Dame Undergraduate Research Center, Land O’Lakes, WI](/assets/undergrads.png)
