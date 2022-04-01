@@ -2,8 +2,8 @@
 title: Curriculum Vitae
 ---
 
-<font size=”1″> 
-Education
+
+### Education
 
 
 <p align="left">
