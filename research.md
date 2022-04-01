@@ -43,7 +43,7 @@ Secondly, I modified an established resource selection function (RSF) to simulta
 
 
 <p align="center">
-  <img src="/assets/Map.png" alt="drawing" width="600"/>
+  <img src="/assets/Map.png" alt="drawing" width="550"/>
   
   
 <p align="left">  
