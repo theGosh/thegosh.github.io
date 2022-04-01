@@ -27,7 +27,7 @@ First, I developed a social network simulator and characterized the effect of ex
   
   
 <p align="center">
-  <img src="/assets/SNA.png" alt="drawing" width="800"/>
+  <img src="/assets/SNA.png" alt="drawing" width="700"/>
   
   
 <p align="left">
