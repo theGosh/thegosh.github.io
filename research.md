@@ -5,7 +5,6 @@ title: Research
 I have extensive fieldwork experience and have done research on a range of taxa and topics, from invasive insects biocontrol, to nesting behavior in birds, to movement ecology in mammals.  
 
 
-
 <p align="center">
   <img src="/assets/RhinoEgg.png" alt="drawing" width="500"/>
 </p>  
@@ -30,8 +29,7 @@ In my **dissertation**, I developed two tools to test hypotheses about 1) how po
   
 <p align="left" />
 First, I developed a social network simulator and characterized the effect of exploitation on social network architecture by virtually ‘poaching’ either the oldest, most 'socially central' or random individuals. Targeted ‘poaching’ of social hubs, regardless of their age, decreased network connectivity and the quality of social diffusion, suggesting that age does not always determin who acts as a 'social broker' (Wiśniewska et al. 2022). This, in turn, may be an example of an evolutionary buffer against destabilizing events, such as disease-induced die-offs or predation. It is possible to modify this simulator to test the impact of anthropogenic disturbance in othr species with limited, real-world data (e.g., lethal management of wild swine)
-  
-  
+
   
 <p align="center" >
   <img src="/assets/SNA.png" alt="drawing" width="500"/>
@@ -39,10 +37,8 @@ First, I developed a social network simulator and characterized the effect of ex
   
 <p align="left" />
   
-    
 
 Secondly, I modified an established resource selection function (RSF) to simultaneously test for the effects of the physical and social landscapes on individual movement. I applied the modified, social RSF (SRSF) to movement data from 1) a simulated swarm of 10 individuals; 2) a herd of 16 domestic goats; and 3) five, free ranging male elephants. Besides recovering expected physical preferences in all dataset (e.g., goats are attracted to vegetation), the SRSF estimates consistently recover social dynamics seen among observed elephants. Below, I exemplify movement of two tracked males. Guess which is has been observed to be more dominant.
-
 
 
 <p align="center">
