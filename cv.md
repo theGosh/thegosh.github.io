@@ -3,7 +3,7 @@ title: Curriculum Vitae
 ---
 
 
-## Education
+### Education
 
 
 <p align="left"/>
