@@ -5,7 +5,6 @@ title: Curriculum Vitae
 
 ### Education
 
-<p align="left"/>
 
 - Ph.D. in Biological Sciences (**2021**) - New Jersey Institute of Technology (NJIT), Newark, NJ    
   - Advisors: Drs. Gareth Russell and Simon Garnier 
