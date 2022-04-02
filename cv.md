@@ -12,18 +12,19 @@ title: Curriculum Vitae
 <p align="left"/>     
 Ph.D. in Biological Sciences - New Jersey Institute of Technology (NJIT), Newark, NJ    
 <p align="left"/>
-&nbsp;&nbsp;&nbsp;&nbsp Advisors: Drs. Gareth Russell and Simon Garnier 
-<p align="left"/>        
-&nbsp;&nbsp;&nbsp;&nbsp Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (Loxodontabafricana)
+
+- Advisors: Drs. Gareth Russell and Simon Garnier 
+- Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (*Loxodonta africana*)
+
 
           
 2011    	
 <p align="left"/>
 M.S. in Biology - Western Kentucky University (WKU), Bowling Green, KY
 <p align="left"/>
-Advisor: Dr. Bruce Schulte
-<p align="left"/>
-Thesis: Factors influencing travel order as proxy for leadership and trade-offs in activity budgets in lactating and nonlactating African 
+
+- Advisor: Dr. Bruce Schulte
+- Thesis: Factors influencing travel order as proxy for leadership and trade-offs in activity budgets in lactating and nonlactating African 
 svanna elephants
 
 
