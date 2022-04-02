@@ -8,33 +8,23 @@ title: Curriculum Vitae
 
 <p align="left"/>
 
-### 2021 
+#### 2021 
 - Ph.D. in Biological Sciences - New Jersey Institute of Technology (NJIT), Newark, NJ    
   - Advisors: Drs. Gareth Russell and Simon Garnier 
-  - Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (*Loxodonta africana*)
+  - Dissertation: *The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (Loxodonta africana)*
 
 
           
-### 2011    	
-<p align="left"/>
-M.S. in Biology - Western Kentucky University (WKU), Bowling Green, KY
-<p align="left"/>
-
-- Advisor: Dr. Bruce Schulte
-- Thesis: Factors influencing travel order as proxy for leadership and trade-offs in activity budgets in lactating and nonlactating African 
-svanna elephants
+#### 2011    	
+- M.S. in Biology - Western Kentucky University (WKU), Bowling Green, KY
+  - Advisor: Dr. Bruce Schulte
+  - Thesis: *Factors influencing travel order as proxy for leadership and trade-offs in activity budgets in lactating and nonlactating African 
+svanna elephants*
 
 
-2006	
-<p align="left"/>
-B.S. in Biology - University of Texas (UT Austin), Austin, TX
+#### 2006	
+- B.S. in Biology - University of Texas (UT Austin), Austin, TX
 
           
-2003	
-<p align="left"/>
-A.S. in Veterinary Technology - Manor College, Jenkintown, PA
-
-
-<p align="left"/>
-Full CV
-
+#### 2003	
+- A.S. in Veterinary Technology - Manor College, Jenkintown, PA
