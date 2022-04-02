@@ -8,17 +8,14 @@ title: Curriculum Vitae
 
 <p align="left"/>
 
-2021 
-<p align="left"/>     
-Ph.D. in Biological Sciences - New Jersey Institute of Technology (NJIT), Newark, NJ    
-<p align="left"/>
-
-- Advisors: Drs. Gareth Russell and Simon Garnier 
-- Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (*Loxodonta africana*)
+### 2021 
+- Ph.D. in Biological Sciences - New Jersey Institute of Technology (NJIT), Newark, NJ    
+  - Advisors: Drs. Gareth Russell and Simon Garnier 
+  - Dissertation: The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (*Loxodonta africana*)
 
 
           
-2011    	
+### 2011    	
 <p align="left"/>
 M.S. in Biology - Western Kentucky University (WKU), Bowling Green, KY
 <p align="left"/>
