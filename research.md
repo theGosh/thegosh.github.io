@@ -34,4 +34,6 @@ Secondly, I modified an established resource selection function (RSF) to simulta
 
 <p align="left" />
 Two Manuscripts detailing building and testing of the SRSF will soon be submitted for publication, so please stay tuned! 
+
+<p align="left" />
 I would like to expand my focus to questions about interactions between wildlife and humans—a dynamic that remains problematic and poorly understood. The SRSF model will be handy, because it can (theoretically) estimate multiple sociophysical drivers of movement by any species, including humans. 
