@@ -6,7 +6,6 @@ I have extensive fieldwork experience and have done research on a range of taxa 
 <p align="center">
   <img src="/assets/RhinoEgg.png" alt="drawing" width="500"/>
 </p>  
-
 <p align="left" />
 My recent focus has been on the behavioral ecology of African savanna elephants, particularly in Southern Africa—a versatile model of an endangered keystone species; a nuisance impacting human welfare; and an economic asset. Its conservation and management are increasingly important.
 
