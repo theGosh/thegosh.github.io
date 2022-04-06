@@ -11,7 +11,7 @@ title: Curriculum Vitae
   - Dissertation: *The interplay of the physical landscape and social dynamics in shaping movement of African savanna elephants (Loxodonta africana)*
 
    	
-- M.S. in Biology (**2011**) - Western Kentucky University (WKU), Bowling Green, KY
+- M.S. in Biology [(**2011**)](https://digitalcommons.wku.edu/theses/1121/) - Western Kentucky University (WKU), Bowling Green, KY
   - Advisor: Dr. Bruce Schulte
   - Thesis: *Factors influencing travel order as proxy for leadership and trade-offs in activity budgets in lactating and nonlactating African 
 svanna elephants*
