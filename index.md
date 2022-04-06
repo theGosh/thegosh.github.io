@@ -1,5 +1,5 @@
 ---
-title: Maggie Wiśniewska, Ph.D
+title: Maggie Wiśniewska, Ph. D
 ---
 
 I am a behavioral ecologist and a science educator.
