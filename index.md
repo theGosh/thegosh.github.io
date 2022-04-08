@@ -2,6 +2,7 @@
 title: Maggie Wiśniewska, Ph. D
 ---
 {% include nav-social.html %}
+
 I am a behavioral ecologist and a science educator.
 
 As a scientist, I study how animals navigate human-altered ecosystems.   
