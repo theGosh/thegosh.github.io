@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-[Full CV](/assets/WiśniewskaCV.4.6.22WEB.pdf)
+[Full CV](/assets/WisniewskaCV.pdf)
 
 
 ### Education
