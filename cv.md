@@ -1,6 +1,8 @@
 ---
-title: [Curriculum Vitae](/assets/WiśniewskaCV.4.6.22WEB.pdf)
+title: Curriculum Vitae
 ---
+
+[Full CV](/assets/WiśniewskaCV.4.6.22WEB.pdf)
 
 
 ### Education
